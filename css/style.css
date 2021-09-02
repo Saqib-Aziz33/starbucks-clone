@@ -90,7 +90,7 @@ nav ul{
     display: none;
 }
 .side-nav{
-    position: absolute;
+    position: fixed;
     width: 80%;
     top: 60px;
     right: -80vw;
